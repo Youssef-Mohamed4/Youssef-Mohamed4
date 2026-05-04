@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:Youssef.Mohamed4994@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/youssef-mohamed-a85889289/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/youssef-mohamed-a85889289/">LinkedIn</a>
 </p>
 
 ---
