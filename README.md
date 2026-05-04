@@ -11,7 +11,7 @@
 
 # 🧑‍💻 About Me  
 - ML & AI developer focused on building practical machine learning systems.  
-- Backend & full-stack experience using **ASP.NET Core, FastAPI, Flask, SQL**.  
+- Backend & full-stack experience using **FastAPI, Flask, SQL**.  
 - Strong in **algorithms, data structures, and problem solving**.    
 - Passionate about deep learning, data pipelines, model evaluation, and scalable backend systems.
 
