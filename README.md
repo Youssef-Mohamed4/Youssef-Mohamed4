@@ -25,11 +25,9 @@
 ![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
-**Python · C++ · C · C# · JavaScript · Java · Kotlin · SQL**
+**Python · C++ · C · C# · JavaScript · SQL**
 
 ---
 
@@ -45,14 +43,13 @@
 ---
 
 ### 🔹 **Web / Backend Development**
-![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e34f26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?logo=bootstrap&logoColor=white)
 
-**ASP.NET Core · FastAPI · Flask · SQL Server · REST APIs · EF Core**
+**FastAPI · Flask · MySQL · Bootstrap**
 
 ---
 
@@ -61,7 +58,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-**Git · Linux · Docker · Debugging · Unit Testing**
+**Git · Linux · Docker**
 
 ---
 
