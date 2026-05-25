@@ -109,7 +109,7 @@
 - Built a 3-class sentiment analyzer trained on a balanced **31K review dataset**.  
 - Augmented TF-IDF vectorization with pre-computed VADER sentiment scores.  
 - Applied sublinear TF scaling, achieving robust accuracy across complex real-world text inputs.  
-👉 **Repo:** https://github.com/YoussefMohamed44/Customer-Review-Sentiment-Analysis
+👉 **Repo:** https://github.com/Youssef-Mohamed4/Customer-Review-Sentiment-Analysis
 
 ---
 
@@ -127,21 +127,21 @@
 - Engineered a fully functional, blueprint-based online supermarket equipped with persistent session-based cart logic.  
 - Integrated comprehensive automated testing workflows (unit and UI) utilizing **pytest**.  
 - Managed secure authentication, flash messaging, form validation (Flask-WTF), and administrative CRUD functionalities.  
-👉 **Repo:** https://github.com/YoussefMohamed44/Supermarket
+👉 **Repo:** https://github.com/Youssef-Mohamed4/Supermarket
 
 ---
 
 ### 🔹 **Core Computer Science Projects**
-- **[Tic-Tac-Toe AI](https://github.com/YoussefMohamed44/tic-tac-toe):** Python, Minimax with alpha-beta pruning (100% win/draw rate).  
-- **[Compiler Pipeline](https://github.com/YoussefMohamed44/Compiler-Project):** C#, Full lexical and syntax analysis pipeline with AST generation.  
-- **[Banking System](https://github.com/YoussefMohamed44/DataStructers-Project):** C++, Real-world application of core data structures (Stacks, Queues, Linked Lists).  
+- **[Tic-Tac-Toe AI](https://github.com/Youssef-Mohamed4/tic-tac-toe):** Python, Minimax with alpha-beta pruning (100% win/draw rate).  
+- **[Compiler Pipeline](https://github.com/Youssef-Mohamed4/Compiler-Project):** C#, Full lexical and syntax analysis pipeline with AST generation.  
+- **[Banking System](https://github.com/Youssef-Mohamed4/DataStructers-Project):** C++, Real-world application of core data structures (Stacks, Queues, Linked Lists).  
 
 ---
 
 # 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefMohamed44&theme=radical" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Mohamed4&theme=radical" height="165px"/>
 </p>
 
 ---
