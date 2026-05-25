@@ -11,7 +11,6 @@
 
 # 🧑‍💻 About Me  
 - **AI & ML Engineer** focused on building production-ready machine learning models and data pipelines.  
-- **Backend Developer** with strong experience in deploying scalable APIs using **FastAPI, Flask, and SQL**.  
 - **Competitive Programmer** holding a Specialist rank, with a deep foundation in **algorithms, data structures, and mathematical modeling**.   
 - Passionate about deep stochastic AI systems, automated verification, and bridging the gap between theoretical R&D and robust enterprise software.
 
@@ -53,6 +52,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e34f26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?logo=bootstrap&logoColor=white)
 
 **FastAPI · Flask · PostgreSQL · MySQL · RESTful APIs**
 
@@ -63,7 +63,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-**Git · Arch Linux (paru) · Docker & Docker Compose**
+**Git · Arch Linux · Docker & Docker Compose**
 
 ---
 
@@ -78,12 +78,21 @@
 
 ---
 
+### 🔹 **AeroMouse: AI Virtual Tracking Mouse**
+**Tech:** Python, OpenCV, MediaPipe, Multi-threading  
+- Built a cross-platform (Windows & Linux/Wayland) AI virtual mouse utilizing MediaPipe hand landmark detection.  
+- Implemented Exponential Moving Average (EMA) and relative movement algorithms for sub-pixel cursor precision and a touchpad-like UX.  
+- Designed OS-agnostic background daemon threads for seamless mouse control, eliminating UI blocking and input lag.  
+👉 **Repo:** https://github.com/Youssef-Mohamed4/AeroMouse
+
+---
+
 ### 🔹 **Student Dropout Early Warning System**
 **Tech:** Python, XGBoost, Pandas, Streamlit  
 - Developed an early warning predictive model to identify at-risk students based on a 4.4K+ record dataset.  
 - Achieved **93.11% test accuracy**, 0.97 ROC-AUC score, and 0.91 F1-Score via 5-fold cross-validation.  
 - Built an interactive Streamlit dashboard for real-time risk assessment.  
-👉 **Repo:** *(Add Your Repo Link Here)*
+👉 **Repo:** https://github.com/Youssef-Mohamed4/student-dropout-risk-analysis
 
 ---
 
@@ -91,7 +100,7 @@
 **Tech:** Python, OpenCV, MediaPipe, NumPy  
 - Implemented a live computer vision system to track user posture and gaze geometry (yaw/pitch).  
 - Applied Exponential Moving Average (EMA) to stabilize landmark coordinate metrics and eliminate real-time noisy readings.  
-👉 **Repo:** *(Add Your Repo Link Here)*
+👉 **Repo:** https://github.com/Youssef-Mohamed4/smart-focus-assistant
 
 ---
 
