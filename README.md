@@ -11,7 +11,7 @@
 
 # 🧑‍💻 About Me  
 - **AI & ML Engineer** focused on building production-ready machine learning models and data pipelines.  
-- **Competitive Programmer** holding a Specialist rank, with a deep foundation in **algorithms, data structures, and mathematical modeling**.   
+- **Competitive Programmer** pushing to a Specialist rank, with a deep foundation in **algorithms, data structures, and mathematical modeling**.   
 - Passionate about deep stochastic AI systems, automated verification, and bridging the gap between theoretical R&D and robust enterprise software.
 
 ---
