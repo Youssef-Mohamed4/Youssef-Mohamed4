@@ -69,11 +69,12 @@
 
 # 🚀 Featured Projects
 
-### 🔹 **Easy-Sakan: AI Real Estate Recommendation Engine**
-**Tech:** Python, FastAPI, Scikit-Learn, XGBoost, PostgreSQL  
-- Engineered a content-based filtering recommendation engine utilizing Cosine Similarity across mixed numeric/binary feature spaces.  
-- Deployed a highly optimized production service integrated into a FastAPI backend, achieving **sub-5ms query latency**.  
-- Actively designing an automated real estate price prediction module (XGBoost) and a document verification pipeline (Computer Vision/OCR).  
+### 🔹 **Easy-Sakan: AI-Powered Real Estate Platform**
+**Tech:** Python, FastAPI, XGBoost, YOLOv8, Surya OCR, Scikit-Learn, PostgreSQL  
+- Architected and deployed an end-to-end Machine Learning backend for a student housing platform.  
+- Engineered a **6-vector Automated Document Verification** pipeline (YOLOv8, Surya OCR, OpenCV ELA, and Metadata Forensics) with a strict fail-closed security architecture to detect identity fraud.  
+- Developed a production-ready **XGBoost regression engine** to predict fair market rent, integrated into a real-time deal-rating system with a highly accurate ±346 EGP Mean Absolute Error.  
+- Implemented a content-based recommendation engine utilizing Jaccard Similarity and custom weighted vector math, achieving **sub-5ms query latency** via FastAPI.  
 👉 **Repo:** https://github.com/Youssef-Mohamed4/easy-sakan-ai
 
 ---
