@@ -36,12 +36,13 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-179331?logo=xgboost&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?logo=yolo&logoColor=black)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=probot&logoColor=white)
 ![seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=pandas&logoColor=white)
 
-**Predictive Modeling · Computer Vision · NLP · XGBoost · Deep Learning**
+**Predictive Modeling · Computer Vision · NLP · XGBoost · Deep Learning · OCR (Surya)**
 
 ---
 
@@ -62,8 +63,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-**Git · Arch Linux · Docker & Docker Compose**
+**Git · Arch Linux · Docker & Docker Compose · Postman**
 
 ---
 
@@ -148,9 +150,9 @@
 ---
 
 # 🔥 What I'm Working On  
-- Completing the AI microservices and verification architectures for my **Easy-Sakan Graduation Project**.  
 - Preparing for Master's level research in **Data Science & AI Systems Engineering**.  
-- Continuously honing my advanced algorithmic problem-solving skills on Codeforces.
+- Continuously honing my advanced algorithmic problem-solving skills on Codeforces.  
+- Exploring advanced Deep Learning architectures and scalable AI integrations for enterprise backends.
 
 ---
 
