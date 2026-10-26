@@ -86,7 +86,7 @@
 - Built a cross-platform (Windows & Linux/Wayland) AI virtual mouse utilizing MediaPipe hand landmark detection.  
 - Implemented Exponential Moving Average (EMA) and relative movement algorithms for sub-pixel cursor precision and a touchpad-like UX.  
 - Designed OS-agnostic background daemon threads for seamless mouse control, eliminating UI blocking and input lag.  
-👉 **Repo:** https://github.com/Youssef-Mohamed4/AeroMouse
+👉 **Repo:** https://github.com/Youssef-Mohamed4/virtual-mouse-tracking
 
 ---
 
